@@ -7,3 +7,6 @@
 
 ## 效果展示
 
+- 文字效果：以 Regular 样式为例
+
+  ![文字效果](<src/effect display.png>)
